@@ -24,7 +24,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="walkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+A challenge that was faced when creating this app was receiving a StatusCode 500 error when making an API call. The fix to this was to reboot the emulator and to recheck the code for an misspellings and/or inconsistencies. There was also the lack of styling and coloring due to a time constraint. As a result, the bonus features will be added on a later date, while meeting the REQUIRED features. 
 
 ### Open-source libraries used
 
